@@ -1,0 +1,3 @@
+# Cuberite_Watchdog
+My Cubrite server crashes from time to time, so i made a keep-alive batch file...
+- Close the MCServer Window and type Y in the command window to stop the server
