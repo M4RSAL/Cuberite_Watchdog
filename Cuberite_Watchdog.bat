@@ -12,8 +12,10 @@ echo close the MCServer window and type Y
 echo depending on your language followed by Enter.
 
 :MCServer
+echo (%date%) - (%time%) MCServer started.
 echo (%date%) - (%time%) MCServer started. >>Watchdog_logs/(%date%).txt 
 start /wait MCServer.exe
 
+echo (%date%) - (%time%) WARNING: MCServer crashed, restarting...
 echo (%date%) - (%time%) WARNING: MCServer crashed, restarting... >>Watchdog_logs/(%date%).txt 
 goto MCServer
