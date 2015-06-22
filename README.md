@@ -9,4 +9,3 @@ Close the MCServer.exe/Cuberite.exe Window and type Y in the command window to s
 2. Start the Cuberite_Watchdog.bat
 3. DONE!
 
-- M4RSAL
