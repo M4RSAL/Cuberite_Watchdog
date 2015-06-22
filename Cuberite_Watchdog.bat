@@ -3,6 +3,7 @@
 cls
 color 0C
 title MCServer Watchdog - By M4RSAL
+mkdir Watchdog_logs
 
 echo Protecting MCServer from crashes...
 echo If you want to close MCServer and this script
